@@ -1,3 +1,0 @@
-# hello-world
-just another repositary
-trying to learn more about programming, web design etc...
